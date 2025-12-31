@@ -1,0 +1,9 @@
+{
+  "name": "Driver Management Tool",
+  "description": "A premium black & purple themed driver management system with role-based access, real-time tracking, and automated billing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
